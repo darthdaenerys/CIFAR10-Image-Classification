@@ -13,7 +13,8 @@ The classes are completely mutually exclusive. There is no overlap between autom
 
 ## Final Testing Results
 
-    Test Accuracy: 79.82 %
+    Test Loss: 0.5822
+    Test Accuracy: 81.330 %
 
 ## Model Loss and Accuracy
 
