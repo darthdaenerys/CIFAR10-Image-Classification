@@ -13,7 +13,15 @@ The classes are completely mutually exclusive. There is no overlap between autom
 
 ## Predictions
 
+![](prediction1.png)
 
+![](prediction2.png)
+
+![](prediction3.png)
+
+![](prediction4.png)
+
+![](prediction5.png)
 
 ## Final Testing Results
 
